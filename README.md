@@ -17,7 +17,7 @@ Example:
 
 ```json
 {
-  "schema": 1,
+  "manifest_schema": 1,
   "latest_version": "0.4.1",
   "latest_tag": "v0.4.1",
   "published_at": "2026-07-10T00:00:00Z"
